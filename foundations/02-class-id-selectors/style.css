@@ -1,0 +1,10 @@
+/* styles.css */
+ * { font-family: sans-serif}
+
+#two {color:rgb(0, 0, 255) ; font-size: 24px;}
+
+#four {font-weight: bold; font-size: 30px; background-color: #79FB60 ;}
+
+.odd { background-color: #FF9494; font-family: verdana, Dejavu sans, sans-serif;}
+
+.three {font-size: 24px ;}
